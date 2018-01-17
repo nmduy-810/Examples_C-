@@ -1,0 +1,7 @@
+C:\Users\Windows 10\OneDrive\Bai-Tap-Trong-CTDL_GT\CacBaiTapVeThuatToan\TimSoLonNhat_NhoNhat\bin\Debug\TimSoLonNhat_NhoNhat.exe.config
+C:\Users\Windows 10\OneDrive\Bai-Tap-Trong-CTDL_GT\CacBaiTapVeThuatToan\TimSoLonNhat_NhoNhat\bin\Debug\TimSoLonNhat_NhoNhat.exe
+C:\Users\Windows 10\OneDrive\Bai-Tap-Trong-CTDL_GT\CacBaiTapVeThuatToan\TimSoLonNhat_NhoNhat\bin\Debug\TimSoLonNhat_NhoNhat.pdb
+C:\Users\Windows 10\OneDrive\Bai-Tap-Trong-CTDL_GT\CacBaiTapVeThuatToan\TimSoLonNhat_NhoNhat\obj\Debug\TimSoLonNhat_NhoNhat.csprojResolveAssemblyReference.cache
+C:\Users\Windows 10\OneDrive\Bai-Tap-Trong-CTDL_GT\CacBaiTapVeThuatToan\TimSoLonNhat_NhoNhat\obj\Debug\TimSoLonNhat_NhoNhat.csproj.CoreCompileInputs.cache
+C:\Users\Windows 10\OneDrive\Bai-Tap-Trong-CTDL_GT\CacBaiTapVeThuatToan\TimSoLonNhat_NhoNhat\obj\Debug\TimSoLonNhat_NhoNhat.exe
+C:\Users\Windows 10\OneDrive\Bai-Tap-Trong-CTDL_GT\CacBaiTapVeThuatToan\TimSoLonNhat_NhoNhat\obj\Debug\TimSoLonNhat_NhoNhat.pdb

@@ -1,0 +1,7 @@
+C:\Users\Windows 10\OneDrive\Bai-Tap-Trong-CTDL_GT\CacBaiTapVeThuatToan\TinhDiemTrungBinh\bin\Debug\TinhDiemTrungBinh.exe.config
+C:\Users\Windows 10\OneDrive\Bai-Tap-Trong-CTDL_GT\CacBaiTapVeThuatToan\TinhDiemTrungBinh\bin\Debug\TinhDiemTrungBinh.exe
+C:\Users\Windows 10\OneDrive\Bai-Tap-Trong-CTDL_GT\CacBaiTapVeThuatToan\TinhDiemTrungBinh\bin\Debug\TinhDiemTrungBinh.pdb
+C:\Users\Windows 10\OneDrive\Bai-Tap-Trong-CTDL_GT\CacBaiTapVeThuatToan\TinhDiemTrungBinh\obj\Debug\TinhDiemTrungBinh.csproj.CoreCompileInputs.cache
+C:\Users\Windows 10\OneDrive\Bai-Tap-Trong-CTDL_GT\CacBaiTapVeThuatToan\TinhDiemTrungBinh\obj\Debug\TinhDiemTrungBinh.exe
+C:\Users\Windows 10\OneDrive\Bai-Tap-Trong-CTDL_GT\CacBaiTapVeThuatToan\TinhDiemTrungBinh\obj\Debug\TinhDiemTrungBinh.pdb
+C:\Users\Windows 10\OneDrive\Bai-Tap-Trong-CTDL_GT\CacBaiTapVeThuatToan\TinhDiemTrungBinh\obj\Debug\TinhDiemTrungBinh.csprojResolveAssemblyReference.cache

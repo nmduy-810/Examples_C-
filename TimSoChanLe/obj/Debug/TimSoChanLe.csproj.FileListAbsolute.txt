@@ -1,0 +1,14 @@
+C:\Users\Windows 10\OneDrive\Bai-Tap-Trong-CTDL_GT\CacBaiTapVeThuatToan\Bai_Tap_1\bin\Debug\Bai_Tap_1.exe.config
+C:\Users\Windows 10\OneDrive\Bai-Tap-Trong-CTDL_GT\CacBaiTapVeThuatToan\Bai_Tap_1\bin\Debug\Bai_Tap_1.exe
+C:\Users\Windows 10\OneDrive\Bai-Tap-Trong-CTDL_GT\CacBaiTapVeThuatToan\Bai_Tap_1\bin\Debug\Bai_Tap_1.pdb
+C:\Users\Windows 10\OneDrive\Bai-Tap-Trong-CTDL_GT\CacBaiTapVeThuatToan\Bai_Tap_1\obj\Debug\TimSoChanLe.csprojResolveAssemblyReference.cache
+C:\Users\Windows 10\OneDrive\Bai-Tap-Trong-CTDL_GT\CacBaiTapVeThuatToan\Bai_Tap_1\obj\Debug\TimSoChanLe.csproj.CoreCompileInputs.cache
+C:\Users\Windows 10\OneDrive\Bai-Tap-Trong-CTDL_GT\CacBaiTapVeThuatToan\Bai_Tap_1\obj\Debug\Bai_Tap_1.exe
+C:\Users\Windows 10\OneDrive\Bai-Tap-Trong-CTDL_GT\CacBaiTapVeThuatToan\Bai_Tap_1\obj\Debug\Bai_Tap_1.pdb
+C:\Users\Windows 10\OneDrive\Bai-Tap-Trong-CTDL_GT\CacBaiTapVeThuatToan\TimSoChanLe\bin\Debug\TimSoChanLe.exe.config
+C:\Users\Windows 10\OneDrive\Bai-Tap-Trong-CTDL_GT\CacBaiTapVeThuatToan\TimSoChanLe\bin\Debug\TimSoChanLe.exe
+C:\Users\Windows 10\OneDrive\Bai-Tap-Trong-CTDL_GT\CacBaiTapVeThuatToan\TimSoChanLe\bin\Debug\TimSoChanLe.pdb
+C:\Users\Windows 10\OneDrive\Bai-Tap-Trong-CTDL_GT\CacBaiTapVeThuatToan\TimSoChanLe\obj\Debug\TimSoChanLe.csprojResolveAssemblyReference.cache
+C:\Users\Windows 10\OneDrive\Bai-Tap-Trong-CTDL_GT\CacBaiTapVeThuatToan\TimSoChanLe\obj\Debug\TimSoChanLe.csproj.CoreCompileInputs.cache
+C:\Users\Windows 10\OneDrive\Bai-Tap-Trong-CTDL_GT\CacBaiTapVeThuatToan\TimSoChanLe\obj\Debug\TimSoChanLe.exe
+C:\Users\Windows 10\OneDrive\Bai-Tap-Trong-CTDL_GT\CacBaiTapVeThuatToan\TimSoChanLe\obj\Debug\TimSoChanLe.pdb

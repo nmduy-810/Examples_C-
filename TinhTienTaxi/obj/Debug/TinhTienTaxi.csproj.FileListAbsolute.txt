@@ -1,0 +1,7 @@
+C:\Users\Windows 10\OneDrive\Bai-Tap-Trong-CTDL_GT\CacBaiTapVeThuatToan\TinhTienTaxi\bin\Debug\TinhTienTaxi.exe.config
+C:\Users\Windows 10\OneDrive\Bai-Tap-Trong-CTDL_GT\CacBaiTapVeThuatToan\TinhTienTaxi\bin\Debug\TinhTienTaxi.exe
+C:\Users\Windows 10\OneDrive\Bai-Tap-Trong-CTDL_GT\CacBaiTapVeThuatToan\TinhTienTaxi\bin\Debug\TinhTienTaxi.pdb
+C:\Users\Windows 10\OneDrive\Bai-Tap-Trong-CTDL_GT\CacBaiTapVeThuatToan\TinhTienTaxi\obj\Debug\TinhTienTaxi.csproj.CoreCompileInputs.cache
+C:\Users\Windows 10\OneDrive\Bai-Tap-Trong-CTDL_GT\CacBaiTapVeThuatToan\TinhTienTaxi\obj\Debug\TinhTienTaxi.exe
+C:\Users\Windows 10\OneDrive\Bai-Tap-Trong-CTDL_GT\CacBaiTapVeThuatToan\TinhTienTaxi\obj\Debug\TinhTienTaxi.pdb
+C:\Users\Windows 10\OneDrive\Bai-Tap-Trong-CTDL_GT\CacBaiTapVeThuatToan\TinhTienTaxi\obj\Debug\TinhTienTaxi.csprojResolveAssemblyReference.cache
