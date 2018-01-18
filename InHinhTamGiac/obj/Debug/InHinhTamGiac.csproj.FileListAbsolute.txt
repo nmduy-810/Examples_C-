@@ -1,0 +1,7 @@
+E:\Git Project\Examples_C#\InHinhTamGiac\bin\Debug\InHinhTamGiac.exe.config
+E:\Git Project\Examples_C#\InHinhTamGiac\bin\Debug\InHinhTamGiac.exe
+E:\Git Project\Examples_C#\InHinhTamGiac\bin\Debug\InHinhTamGiac.pdb
+E:\Git Project\Examples_C#\InHinhTamGiac\obj\Debug\InHinhTamGiac.csprojResolveAssemblyReference.cache
+E:\Git Project\Examples_C#\InHinhTamGiac\obj\Debug\InHinhTamGiac.csproj.CoreCompileInputs.cache
+E:\Git Project\Examples_C#\InHinhTamGiac\obj\Debug\InHinhTamGiac.exe
+E:\Git Project\Examples_C#\InHinhTamGiac\obj\Debug\InHinhTamGiac.pdb

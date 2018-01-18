@@ -1,0 +1,7 @@
+E:\Git Project\Examples_C#\TinhTongSoChan\bin\Debug\TinhTongSoChan.exe.config
+E:\Git Project\Examples_C#\TinhTongSoChan\bin\Debug\TinhTongSoChan.exe
+E:\Git Project\Examples_C#\TinhTongSoChan\bin\Debug\TinhTongSoChan.pdb
+E:\Git Project\Examples_C#\TinhTongSoChan\obj\Debug\TinhTongSoChan.csprojResolveAssemblyReference.cache
+E:\Git Project\Examples_C#\TinhTongSoChan\obj\Debug\TinhTongSoChan.csproj.CoreCompileInputs.cache
+E:\Git Project\Examples_C#\TinhTongSoChan\obj\Debug\TinhTongSoChan.exe
+E:\Git Project\Examples_C#\TinhTongSoChan\obj\Debug\TinhTongSoChan.pdb

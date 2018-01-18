@@ -1,0 +1,6 @@
+E:\Git Project\Examples_C#\InHinhChuNhat\bin\Debug\InHinhChuNhat.exe.config
+E:\Git Project\Examples_C#\InHinhChuNhat\bin\Debug\InHinhChuNhat.exe
+E:\Git Project\Examples_C#\InHinhChuNhat\bin\Debug\InHinhChuNhat.pdb
+E:\Git Project\Examples_C#\InHinhChuNhat\obj\Debug\InHinhChuNhat.csproj.CoreCompileInputs.cache
+E:\Git Project\Examples_C#\InHinhChuNhat\obj\Debug\InHinhChuNhat.exe
+E:\Git Project\Examples_C#\InHinhChuNhat\obj\Debug\InHinhChuNhat.pdb
