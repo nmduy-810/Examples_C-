@@ -12,3 +12,10 @@ C:\Users\Windows 10\OneDrive\Bai-Tap-Trong-CTDL_GT\CacBaiTapVeThuatToan\TimSoCha
 C:\Users\Windows 10\OneDrive\Bai-Tap-Trong-CTDL_GT\CacBaiTapVeThuatToan\TimSoChanLe\obj\Debug\TimSoChanLe.csproj.CoreCompileInputs.cache
 C:\Users\Windows 10\OneDrive\Bai-Tap-Trong-CTDL_GT\CacBaiTapVeThuatToan\TimSoChanLe\obj\Debug\TimSoChanLe.exe
 C:\Users\Windows 10\OneDrive\Bai-Tap-Trong-CTDL_GT\CacBaiTapVeThuatToan\TimSoChanLe\obj\Debug\TimSoChanLe.pdb
+E:\Git Project\Examples_C#\TimSoChanLe\bin\Debug\TimSoChanLe.exe.config
+E:\Git Project\Examples_C#\TimSoChanLe\bin\Debug\TimSoChanLe.exe
+E:\Git Project\Examples_C#\TimSoChanLe\bin\Debug\TimSoChanLe.pdb
+E:\Git Project\Examples_C#\TimSoChanLe\obj\Debug\TimSoChanLe.csprojResolveAssemblyReference.cache
+E:\Git Project\Examples_C#\TimSoChanLe\obj\Debug\TimSoChanLe.csproj.CoreCompileInputs.cache
+E:\Git Project\Examples_C#\TimSoChanLe\obj\Debug\TimSoChanLe.exe
+E:\Git Project\Examples_C#\TimSoChanLe\obj\Debug\TimSoChanLe.pdb

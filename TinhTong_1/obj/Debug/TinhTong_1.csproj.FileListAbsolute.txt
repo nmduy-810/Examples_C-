@@ -1,0 +1,6 @@
+E:\Git Project\Examples_C#\TinhTong_1\bin\Debug\TinhTong_1.exe.config
+E:\Git Project\Examples_C#\TinhTong_1\bin\Debug\TinhTong_1.exe
+E:\Git Project\Examples_C#\TinhTong_1\bin\Debug\TinhTong_1.pdb
+E:\Git Project\Examples_C#\TinhTong_1\obj\Debug\TinhTong_1.csproj.CoreCompileInputs.cache
+E:\Git Project\Examples_C#\TinhTong_1\obj\Debug\TinhTong_1.exe
+E:\Git Project\Examples_C#\TinhTong_1\obj\Debug\TinhTong_1.pdb

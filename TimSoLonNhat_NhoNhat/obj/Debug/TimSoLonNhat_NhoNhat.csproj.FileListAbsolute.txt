@@ -5,3 +5,10 @@ C:\Users\Windows 10\OneDrive\Bai-Tap-Trong-CTDL_GT\CacBaiTapVeThuatToan\TimSoLon
 C:\Users\Windows 10\OneDrive\Bai-Tap-Trong-CTDL_GT\CacBaiTapVeThuatToan\TimSoLonNhat_NhoNhat\obj\Debug\TimSoLonNhat_NhoNhat.csproj.CoreCompileInputs.cache
 C:\Users\Windows 10\OneDrive\Bai-Tap-Trong-CTDL_GT\CacBaiTapVeThuatToan\TimSoLonNhat_NhoNhat\obj\Debug\TimSoLonNhat_NhoNhat.exe
 C:\Users\Windows 10\OneDrive\Bai-Tap-Trong-CTDL_GT\CacBaiTapVeThuatToan\TimSoLonNhat_NhoNhat\obj\Debug\TimSoLonNhat_NhoNhat.pdb
+E:\Git Project\Examples_C#\TimSoLonNhat_NhoNhat\bin\Debug\TimSoLonNhat_NhoNhat.exe.config
+E:\Git Project\Examples_C#\TimSoLonNhat_NhoNhat\bin\Debug\TimSoLonNhat_NhoNhat.exe
+E:\Git Project\Examples_C#\TimSoLonNhat_NhoNhat\bin\Debug\TimSoLonNhat_NhoNhat.pdb
+E:\Git Project\Examples_C#\TimSoLonNhat_NhoNhat\obj\Debug\TimSoLonNhat_NhoNhat.csprojResolveAssemblyReference.cache
+E:\Git Project\Examples_C#\TimSoLonNhat_NhoNhat\obj\Debug\TimSoLonNhat_NhoNhat.csproj.CoreCompileInputs.cache
+E:\Git Project\Examples_C#\TimSoLonNhat_NhoNhat\obj\Debug\TimSoLonNhat_NhoNhat.exe
+E:\Git Project\Examples_C#\TimSoLonNhat_NhoNhat\obj\Debug\TimSoLonNhat_NhoNhat.pdb

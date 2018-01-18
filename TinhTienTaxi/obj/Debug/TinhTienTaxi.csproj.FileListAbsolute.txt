@@ -5,3 +5,10 @@ C:\Users\Windows 10\OneDrive\Bai-Tap-Trong-CTDL_GT\CacBaiTapVeThuatToan\TinhTien
 C:\Users\Windows 10\OneDrive\Bai-Tap-Trong-CTDL_GT\CacBaiTapVeThuatToan\TinhTienTaxi\obj\Debug\TinhTienTaxi.exe
 C:\Users\Windows 10\OneDrive\Bai-Tap-Trong-CTDL_GT\CacBaiTapVeThuatToan\TinhTienTaxi\obj\Debug\TinhTienTaxi.pdb
 C:\Users\Windows 10\OneDrive\Bai-Tap-Trong-CTDL_GT\CacBaiTapVeThuatToan\TinhTienTaxi\obj\Debug\TinhTienTaxi.csprojResolveAssemblyReference.cache
+E:\Git Project\Examples_C#\TinhTienTaxi\bin\Debug\TinhTienTaxi.exe.config
+E:\Git Project\Examples_C#\TinhTienTaxi\bin\Debug\TinhTienTaxi.exe
+E:\Git Project\Examples_C#\TinhTienTaxi\bin\Debug\TinhTienTaxi.pdb
+E:\Git Project\Examples_C#\TinhTienTaxi\obj\Debug\TinhTienTaxi.csprojResolveAssemblyReference.cache
+E:\Git Project\Examples_C#\TinhTienTaxi\obj\Debug\TinhTienTaxi.csproj.CoreCompileInputs.cache
+E:\Git Project\Examples_C#\TinhTienTaxi\obj\Debug\TinhTienTaxi.exe
+E:\Git Project\Examples_C#\TinhTienTaxi\obj\Debug\TinhTienTaxi.pdb
