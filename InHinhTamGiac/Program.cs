@@ -14,7 +14,7 @@ namespace InHinhTamGiac
             int h = int.Parse(Console.ReadLine());
             for (int i = 0; i < h; i++)
             {
-                for (int j = 0; j <= 2*h; j++)
+                for (int j = 0; j <= 2* h; j++)
                 {
                     if(j < h - i || j > h + i)
                     {
